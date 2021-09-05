@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "flie học tập",
     introTitle: 'iemmm ahhh',
-    introDesc: `làm ny a nhá baby:)))`,
+    introDesc: `tắt đi là đồng ý vs những câu đằng sau ròii :)))`,
     btnIntro: '^^HiHi^^',
     title: 'làm ny a nháaaa 🥰',
     desc: 'chọn 1 trong 2 nha? ',
